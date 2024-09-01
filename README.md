@@ -24,7 +24,7 @@
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="javascript" width="40" height="40"/> 
 </a> <a href="https://www.w3schools.com/react/default.asp" target="_blank" rel="noreferrer">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175110.png" alt="react js" width="40" height="40"/> </a>
-  </a> <a href="[https://www.node js.com/](https://www.w3schools.com/nodejs/default.asp)" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/nodejs/default.asp" target="_blank" rel="noreferrer">
   <img src="https://static-00.iconduck.com/assets.00/nodejs-icon-2048x1254-fc24w6ld.png" alt="node js" width="40" height="40"/> </a>
   
 
