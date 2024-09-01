@@ -5,7 +5,6 @@
 <h3 align="center">A passionate developer from pakistan</h3>
 <img align="right" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtBPQr3QtF9oShmIQzqvbOMguqQnPzBNIsg&usqp=CAU">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=albab786&label=Profile%20views&color=0e75b6&style=flat" alt="albab786" /> </p>
 
 - 🌱 I’m currently learning **MERN STACK**
 
@@ -22,9 +21,9 @@
 </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </a> <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="java" width="40" height="40"/> 
+  <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="javascript" width="40" height="40"/> 
 </a> <a href="https://www.react.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175110.png" alt="mysql" width="40" height="40"/> </a>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175110.png" alt="react js" width="40" height="40"/> </a>
   </a> <a href="https://www.node js.com/" target="_blank" rel="noreferrer">
   <img src="https://static-00.iconduck.com/assets.00/nodejs-icon-2048x1254-fc24w6ld.png" alt="mysql" width="40" height="40"/> </a>
   
