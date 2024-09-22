@@ -6,7 +6,7 @@
 <img align="right" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtBPQr3QtF9oShmIQzqvbOMguqQnPzBNIsg&usqp=CAU">
 
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **MySQL**
 
 - 💬 Ask me about **HTML,CSS,JS,BOOTSTRAPE,JQUERY,REACT JS,NODE JS,**
 
