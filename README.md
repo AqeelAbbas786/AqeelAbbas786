@@ -2,13 +2,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Aqeel Abbas</h1>
-<h3 align="center">A passionate developer from pakistan</h3>
+<h3 align="center">A passionate full stack developer </h3>
 <img align="right" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtBPQr3QtF9oShmIQzqvbOMguqQnPzBNIsg&usqp=CAU">
 
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **HTML,CSS,JS,BOOTSTRAPE,JQUERY,REACT JS,NODE JS,**
+- 💬 Ask me about **HTML, CSS, JS, BOOTSTRAP, JQUERY, REACT JS, NODE JS, MYSQL and PHP**
 
 - 📫 How to reach me **aqeelabbas154023@gmail.com**
 
