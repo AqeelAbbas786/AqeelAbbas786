@@ -1,37 +1,25 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Aqeel Abbas</h1>
-<h3 align="center">A passionate full stack developer </h3>
-<img align="right" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtBPQr3QtF9oShmIQzqvbOMguqQnPzBNIsg&usqp=CAU">
+<h3 align="center">A passionate full Stack Developer</h3>
 
+<p> <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" height="300px"   align="right" alt="aqeelabbas786" /> </p>
+
+- 🔭 I’m currently working on [VegVilla](https://veg-villa-1ba23.web.app/)
 
 - 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **HTML, CSS, JS, BOOTSTRAP, JQUERY, REACT JS, NODE JS, MYSQL and PHP**
+- 👨‍💻 All of my projects are available at [https://aqeel-abbas.web.app/](https://aqeel-abbas.web.app/)
 
-- 📫 How to reach me **aqeelabbas154023@gmail.com**
+- 💬 Ask me about **Javascript, Bootstrap, PHP, MySQL, And React JS**
 
-- 📫 How to connect with me **https://aqeel-abbas.web.app**
+- 📫 How to reach me **aqeelabbas1540232gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- ⚡ Fun fact **"I accidentally texted my boss with way too many emojis... now I’m the office 'emoji expert'!" 😅📱**
+
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a> <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> 
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="javascript" width="40" height="40"/> 
-</a> <a href="https://www.w3schools.com/react/default.asp" target="_blank" rel="noreferrer">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175110.png" alt="react js" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/nodejs/default.asp" target="_blank" rel="noreferrer">
-  <img src="https://static-00.iconduck.com/assets.00/nodejs-icon-2048x1254-fc24w6ld.png" alt="node js" width="40" height="40"/> </a>
-  
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AqeelAbbas786&show_icons=true&locale=en&layout=compact" alt="AqeelAbbas786" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqeelabbas786&show_icons=true&locale=en&layout=compact" alt="aqeelabbas786" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AqeelAbbas786&show_icons=true&locale=en" alt="AqeelAbbas786" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AqeelAbbas786" alt="AqeelAbbas786" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aqeelabbas786&show_icons=true&locale=en" alt="aqeelabbas786" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aqeelabbas786&" alt="aqeelabbas786" /></p>
