@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aqeel-abbas.web.app/](https://aqeel-abbas.web.app/)
 
-- 💬 Ask me about **Javascript, Bootstrap, PHP, MySQL, And Laravel. **
+- 💬 Ask me about **Javascript, Bootstrap, PHP, MySQL, And Laravel.**
 
 - 📫 How to reach me **aqeelabbas1540232gmail.com**
 - 
